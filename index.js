@@ -1,0 +1,3 @@
+const changeName = () => (
+    document.getElementById()
+)

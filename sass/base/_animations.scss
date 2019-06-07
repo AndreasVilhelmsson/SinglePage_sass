@@ -1,0 +1,80 @@
+/** animation functions **/
+
+/* @keyframes movInleft {
+    0% {
+        opacity: 0;
+        transform: translateX(-100px);
+    }
+    80% {
+        transform: translateX(10px);
+    }
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+} */
+
+@keyframes movInleft {
+  from {
+    opacity: 0;
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    opacity: 1;
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+/* @keyframes movInRight {
+      0% {
+          opacity: 0;
+          transform: translateX(10rem);
+      }
+      80% {
+          transform: translateX(-1rem);
+      }
+      100% {
+          opacity: 1;
+          transform: translate(0);
+      }
+  } */
+
+@keyframes movInRight {
+  from {
+    opacity: 0;
+    margin-right: 100%;
+    width: 300%;
+  }
+  to {
+    opacity: 1;
+    margin-right: 0%;
+    width: 100%;
+  }
+}
+
+/* @keyframes movInBottom {
+      0% {
+          opacity: 0;
+          transform: translateX (10rem);
+      }
+      80% {
+          transform: translateX(-1rem);
+      }
+      100% {
+          opacity: 1;
+          transform: translate(0);
+      }
+  } */
+
+@keyframes movInBottom {
+  from {
+    opacity: 0;
+    margin-bottom: -1100%;
+  }
+  to {
+    opacity: 1;
+    margin-bottom: -100%;
+  }
+}
