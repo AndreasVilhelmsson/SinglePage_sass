@@ -13,6 +13,8 @@ cd to the project and type: and use the extension, Live Sass Compiler ritwickdey
 To start the project click the watch sass button 
 and open the index.html  Visual studio code.
 
+text: ![alt test](/images/sass.png)
+
 
 Enjoy!
 
