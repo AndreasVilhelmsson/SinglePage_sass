@@ -11,7 +11,7 @@ Clone this repo by coping the url and in the terminal type: **git clone [paste t
 cd to the project and type: and use the extension, Live Sass Compiler ritwickdey.live-sass
 
 To start the project click the watch sass button 
-and open the index.html in Live Server extension in Visual studio code.
+and open the index.html  Visual studio code.
 
 
 Enjoy!
