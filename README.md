@@ -1,5 +1,5 @@
 ## Singlepage
-This is a mini project learning about Sass and css.
+This is a mini project building and learning some Sass and css code and architecture.
 
 ### Technologies
 * Sass
